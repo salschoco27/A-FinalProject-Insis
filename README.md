@@ -5,7 +5,8 @@ Anggota Kelompok A:
 
 ## Set Up Dependencies
 ```
-npm install express body-parser sqlite3 dotenv axios
+npm install express body-parser sqlite3 dotenv axios jsonwebtoken
 ```
 
-```npm install jsonwebtoken```
+Jalankan program menggunakan ```node server.js```
+Lalu masuk ke browser dengan ```http://localhost:3000/index.html```
